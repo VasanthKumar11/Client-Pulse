@@ -1,0 +1,43 @@
+.remarks{
+   width:600px;
+}
+.remarks1{
+    width:230px;
+ }
+ .remarks12{
+   width:500px;
+}
+
+
+
+@media  screen and (max-width:767px){
+
+    .remarks{
+        width:285px;
+     }
+     
+     .remarks1{
+        width:285px;
+     }
+     .remarks12{
+      width:285px;
+   }
+   
+}
+
+@media  screen and (max-width:1137px){
+
+   .remarks{
+       width:10px;
+    }
+    
+    .remarks1{
+       width:199px;
+    }
+    .remarks12{
+     width:240px;
+  }
+
+  
+  
+}

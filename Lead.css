@@ -1,0 +1,80 @@
+.leadform {
+  height: 35px;
+  width: 250px;
+}
+
+.search {
+  margin-top: 30px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.searchinput{
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.add {
+  margin-top: 30px;
+  padding-left: 67px;
+  padding-right: 67px;
+}
+
+.btn1 {
+  padding-left: 10px;
+  padding-right: 10px;
+
+}
+
+
+.editbtn1 {
+  margin-right: 120px;
+}
+
+.a1{
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  color: #468966;
+}
+.editbtn13 {
+  margin-right: 70px;
+}
+
+
+@media screen and (max-width:766px) {
+  .leadform {
+    height: 35px;
+    width: 290px;
+  }
+
+
+  .btn1 {
+    padding-left: 18px;
+    padding-right: 18px;
+
+  }
+
+  .btn2 {
+    padding-left: 32px;
+    padding-right: 32px;
+  }
+
+  .search {
+    margin-top: 30px;
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+  .searchinput{
+    padding-left: 120px;
+    padding-right: 120px;
+  }
+
+  .editbtn1 {
+    margin-right: 15px;
+  }
+
+  .add {
+    margin-top: 30px;
+    padding-left: 92px;
+    padding-right: 92px;
+  }
+}
